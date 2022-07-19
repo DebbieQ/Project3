@@ -1,2 +1,2 @@
-https://github.com/DebbieQ/Udapeople
+https://github.com/DebbieQ/Project3
 http://udapeople-a151ead.s3-website-us-east-1.amazonaws.com
